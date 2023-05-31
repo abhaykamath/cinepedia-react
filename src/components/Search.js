@@ -1,7 +1,7 @@
 import React, { useRef, useState } from "react";
 import "../styles/Search.css";
 
-const API = "http://www.omdbapi.com/?apikey=76f27438&t=";
+const API = "https://www.omdbapi.com/?apikey=76f27438&t=";
 
 function Search({ setMovieData, onSearch, setLoading, setPageLoaded, setError }) {
   const searchRef = useRef(null);
