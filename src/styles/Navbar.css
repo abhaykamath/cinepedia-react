@@ -1,0 +1,48 @@
+.nav-bar {
+    /* background-color: #0D0E10; */
+    background-color: #212124;
+    box-sizing: border-box;
+    height: 6vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20rem;
+}
+
+.nav-bar h3 {
+    color: white;
+    margin: 0;
+    vertical-align: bottom;
+    font-size: 0.8rem;
+}
+
+#app-title {
+    /* color: #C69749; */
+    color: rgb(245, 197, 24);
+    font-size: 1.4rem;
+    letter-spacing: 1px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+@media (max-width: 1250px) {
+    .nav-bar {
+        width: 100vw;
+        height: 12vh;
+        flex-direction: column;
+        padding: 1rem;
+        gap: 1rem;
+    }
+
+    .nav-bar input {
+        width: 200px;
+    }
+
+    #app-title {
+        font-size: 1.2rem;
+    }
+
+    .nav-bar h3 {
+        font-size: 0.7rem;
+    }
+}
