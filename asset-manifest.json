@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cinepedia-react/static/css/main.b110f4fc.css",
+    "main.js": "/cinepedia-react/static/js/main.0332fd5a.js",
+    "index.html": "/cinepedia-react/index.html",
+    "main.b110f4fc.css.map": "/cinepedia-react/static/css/main.b110f4fc.css.map",
+    "main.0332fd5a.js.map": "/cinepedia-react/static/js/main.0332fd5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b110f4fc.css",
+    "static/js/main.0332fd5a.js"
+  ]
+}
