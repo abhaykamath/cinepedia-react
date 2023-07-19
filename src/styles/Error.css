@@ -1,15 +1,5 @@
-.error-container {
-  box-sizing: border-box;
-  padding: 2rem 5rem;
-  display: flex;
-  justify-content: center;
-}
-
 .error {
   box-sizing: border-box;
-  /* border-radius: 6px; */
-  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px,
-    rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
   width: 100%;
   padding: 1.5rem;
   font-size: 1.1rem;
