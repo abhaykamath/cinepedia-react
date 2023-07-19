@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cinepedia-react/static/css/main.b110f4fc.css",
-    "main.js": "/cinepedia-react/static/js/main.eaccf00d.js",
+    "main.css": "/cinepedia-react/static/css/main.76838b54.css",
+    "main.js": "/cinepedia-react/static/js/main.07819a27.js",
     "index.html": "/cinepedia-react/index.html",
-    "main.b110f4fc.css.map": "/cinepedia-react/static/css/main.b110f4fc.css.map",
-    "main.eaccf00d.js.map": "/cinepedia-react/static/js/main.eaccf00d.js.map"
+    "main.76838b54.css.map": "/cinepedia-react/static/css/main.76838b54.css.map",
+    "main.07819a27.js.map": "/cinepedia-react/static/js/main.07819a27.js.map"
   },
   "entrypoints": [
-    "static/css/main.b110f4fc.css",
-    "static/js/main.eaccf00d.js"
+    "static/css/main.76838b54.css",
+    "static/js/main.07819a27.js"
   ]
 }
